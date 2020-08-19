@@ -10,7 +10,7 @@ This module has the following features:
 
 
 ## Variables
-scl_python_version: The version to use. Defaults to 38 (3.8.x). Possible values: 34, 35, 36 and 38.
+scl_python_version: The version to use. Defaults to 38 (3.8.x). Possible values: 35, 36 and 38.
 
 ## Usage
 Example playbook:

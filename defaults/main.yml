@@ -1,4 +1,4 @@
 # SCL Python version.
-# Currently supported version: 34, 35
-# (3.4.x and 3.5.x)
+# Currently supported version: 35, 36 and 38
+# (3.5.x, 3.6.x, 3.8.x)
 scl_python_version: 38
